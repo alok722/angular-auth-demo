@@ -9,6 +9,9 @@
 
 > this repository contains quick demo of angular auth guard.
 
+## 📸 demo
+![demo](auth-guard.gif)
+
 ## 🛠 usage
 
 ### setting up back-end
